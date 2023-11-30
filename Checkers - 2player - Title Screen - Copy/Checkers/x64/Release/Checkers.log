@@ -1,0 +1,14 @@
+﻿  Checker.cpp
+  Game.cpp
+C:\Users\danie\Downloads\4 Player Checkers v1.0.0\Checker.h(4,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file '../../../../../Downloads/4%20Player%20Checkers%20v1.0.0/Checker.cpp')
+  
+C:\Users\danie\Downloads\4 Player Checkers v1.0.0\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file '../../../../../Downloads/4%20Player%20Checkers%20v1.0.0/Game.cpp')
+  
+  TextureLoader.cpp
+C:\Users\danie\Downloads\4 Player Checkers v1.0.0\TextureLoader.h(4,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file '../../../../../Downloads/4%20Player%20Checkers%20v1.0.0/TextureLoader.cpp')
+  
+  main.cpp
+C:\Users\danie\OneDrive\Desktop\Coding Games\Checkers - 2player - Title Screen\Checkers\main.cpp(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
